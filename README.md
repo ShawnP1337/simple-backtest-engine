@@ -1,2 +1,2 @@
 # simple-backtest-engine
-Simple BackTesting Engine
+Simple BackTesting Engine in C++
